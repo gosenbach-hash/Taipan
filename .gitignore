@@ -1,0 +1,6 @@
+sdk/
+*.app
+dist/
+# Local notes for Claude Code (kept out of the repo)
+CLAUDE.md
+orig/
